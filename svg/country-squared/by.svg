@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<svg id="svg548" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
  <metadata id="metadata3234">
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -11,14 +11,14 @@
  </metadata>
  <defs id="defs550">
   <clipPath id="clipPath5478" clipPathUnits="userSpaceOnUse">
-   <rect id="rect5480" fill-opacity="0.67" height="496.06" width="496.06" y="-.00013532" x="-.00096892"/>
+   <rect id="rect5480" fill-opacity=".67" height="496.06" width="496.06" y="-.00013532" x="-.00096892"/>
   </clipPath>
  </defs>
- <g id="flag" fill-rule="evenodd" clip-path="url(#clipPath5478)" transform="matrix(1.0321 0 0 1.0321 0.001 .00013967)">
+ <g id="flag" clip-path="url(#clipPath5478)" transform="matrix(1.0321 0 0 1.0321 .001 .00013967)" fill-rule="evenodd">
   <rect id="rect1535" transform="translate(0 -.000015259)" height="329.53" width="992.13" y=".000043" x="0" stroke-width="1pt" fill="#b20000"/>
   <rect id="rect2026" transform="translate(0 -.000015259)" height="166.54" width="992.13" y="329.53" x="0" stroke-width="1pt" fill="#429f00"/>
   <rect id="rect1291" transform="translate(0 -.000030518)" height="496.06" width="109.84" y="-.000105" x="0" stroke-width="1.0004pt" fill="#fff"/>
-  <g id="g1528" stroke-width="1pt" fill="#b20000" transform="matrix(.29524 0 0 .23729 141.23 142.93)">
+  <g id="g1528" stroke-width="1pt" transform="matrix(.29524 0 0 .23729 141.23 142.93)" fill="#b20000">
    <rect id="rect557" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="3.5433" y="-106.3" x="-201.97"/>
    <rect id="rect560" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="10.63" y="-106.3" x="-191.34"/>
    <rect id="rect561" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="3.5433" y="-113.39" x="-187.8"/>
@@ -54,10 +54,10 @@
    <rect id="rect593" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="3.5433" y="-49.606" x="-134.65"/>
    <rect id="rect594" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="3.5433" y="-14.173" x="-187.8"/>
    <rect id="rect595" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="10.63" y="-7.0866" x="-191.34"/>
-   <rect id="rect596" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="17.717" y="0.000068" x="-194.88"/>
+   <rect id="rect596" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="17.717" y=".000068" x="-194.88"/>
    <rect id="rect597" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="3.5433" y="-14.173" x="-152.36"/>
    <rect id="rect598" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="10.63" y="-7.0866" x="-155.91"/>
-   <rect id="rect599" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="17.717" y="0.000068" x="-159.45"/>
+   <rect id="rect599" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="17.717" y=".000068" x="-159.45"/>
    <rect id="rect600" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="17.717" y="35.433" x="-155.91"/>
    <rect id="rect601" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="24.803" y="7.0866" x="-162.99"/>
    <rect id="rect602" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="24.803" y="7.0866" x="-198.43"/>
@@ -260,7 +260,7 @@
    <rect id="rect1050" transform="matrix(5 0 0 5 549.21 -35.433)" height="7.0866" width="7.0866" y="276.38" x="-198.43"/>
    <rect id="rect1521" transform="matrix(5 0 0 -5 549.21 -35.433)" height="7.0866" width="3.5433" y="-141.73" x="-148.82"/>
    <rect id="rect1522" transform="matrix(5 0 0 -5 549.21 -35.433)" height="7.0866" width="3.5433" y="-141.73" x="-191.34"/>
-   <rect id="rect1527" height="35.433" width="53.149" y="637.8" x="-318.9"/>
+   <rect id="rect1527" y="637.8" width="53.149" x="-318.9" height="35.433"/>
   </g>
  </g>
 </svg>

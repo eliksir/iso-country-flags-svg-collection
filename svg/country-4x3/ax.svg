@@ -10,18 +10,18 @@
  </metadata>
  <defs id="defs19">
   <clipPath id="clipPath3101" clipPathUnits="userSpaceOnUse">
-   <rect id="rect3103" fill-opacity="0.67" height="850" width="1133.3" y="-.0000016602" x="106.25"/>
+   <rect id="rect3103" fill-opacity=".67" height="850" width="1133.3" y="-.0000016602" x="106.25"/>
   </clipPath>
  </defs>
- <g id="flag" clip-path="url(#clipPath3101)" transform="matrix(.60235 0 0 .60235 -149.33 0.000001)">
+ <g id="flag" transform="matrix(.60235 0 0 .60235 -149.33 .000001)" clip-path="url(#clipPath3101)">
   <rect id="rect3" height="850" width="1300" y="0" x="0" fill="#0053a5"/>
   <g id="g5" fill="#ffce00">
-   <rect id="rect7" width="250" y="0" x="400" height="850"/>
-   <rect id="rect9" y="300" width="1300" x="0" height="250"/>
+   <rect id="rect7" y="0" width="250" height="850" x="400"/>
+   <rect id="rect9" y="300" width="1300" height="250" x="0"/>
   </g>
   <g id="g11" fill="#d21034">
-   <rect id="rect13" width="100" y="0" x="475" height="850"/>
-   <rect id="rect15" y="375" width="1300" x="0" height="100"/>
+   <rect id="rect13" y="0" width="100" height="850" x="475"/>
+   <rect id="rect15" y="375" width="1300" height="100" x="0"/>
   </g>
  </g>
 </svg>
